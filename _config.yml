@@ -1,0 +1,5 @@
+title: "lambdasawa/slide"
+remote_theme: lambdasawa/hacker@master
+plugins:
+  - jekyll-remote-theme
+show_downloads: false
